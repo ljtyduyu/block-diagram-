@@ -56,9 +56,13 @@ theme(panel.background=element_rect(fill="#F5F2E1"))
 <img src="https://github.com/ljtyduyu/block-diagram-/blob/master/Image/image1.png" width = "526" height = "182" alt="image1" align=center />
 </div>
 
+#### 建议保存尺寸（1035*330） <br>
+
+
+A better compact version！！！
+---------------------------------------------
 
 ```r
-### 建议保存尺寸（1035*330） <br>
 mydata1<-mydata[,5:8]
 names(mydata1)<-c("xmin","xmax","ymin","ymax")
 mydata1$Group<-"A"
