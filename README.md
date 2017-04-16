@@ -53,7 +53,7 @@ theme(panel.background=element_rect(fill="#F5F2E1"))
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/block-diagram-/blob/master/Image/image1.jpg" width = "526" height = "182" alt="image1" align=center />
+<img src="https://github.com/ljtyduyu/block-diagram-/blob/master/Image/image1.png" width = "526" height = "182" alt="image1" align=center />
 </div>
 
 
@@ -80,7 +80,7 @@ scale_fill_manual(values=c("#59AF8A","#0074A3","#C72733"))
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/block-diagram-/blob/master/Image/image2.png" width = "512" height = "285" alt="image2" align=center />
+<img src="https://github.com/ljtyduyu/block-diagram-/blob/master/Image/image2.jpg" width = "512" height = "285" alt="image2" align=center />
 </div>
 
 
