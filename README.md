@@ -53,7 +53,7 @@ theme(panel.background=element_rect(fill="#F5F2E1"))
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/block-diagram-/blob/master/Image/image1.png" width = "526" height = "182" alt="image1" align=center />
+<img src="https://github.com/ljtyduyu/block-diagram-/blob/master/Image/image1.jpg" width = "526" height = "182" alt="image1" align=center />
 </div>
 
 
