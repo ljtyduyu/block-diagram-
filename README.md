@@ -52,6 +52,11 @@ theme_nothing()+
 theme(panel.background=element_rect(fill="#F5F2E1"))
 ```
 
+<div  align="center">    
+<img src="https://github.com/ljtyduyu/block-diagram-/blob/master/Image/image1.png" width = "526" height = "182" alt="image1" align=center />
+</div>
+
+
 ```r
 ### 建议保存尺寸（1035*330） <br>
 mydata1<-mydata[,5:8]
@@ -73,6 +78,12 @@ ggplot(mynewdata)+
 geom_rect(aes(xmin=xmin,xmax=xmax,ymin=ymin,ymax=ymax,fill=Group))+
 scale_fill_manual(values=c("#59AF8A","#0074A3","#C72733"))
 ```
+
+<div  align="center">    
+<img src="https://github.com/ljtyduyu/block-diagram-/blob/master/Image/image2.png" width = "512" height = "285" alt="image2" align=center />
+</div>
+
+
 
 联系方式：
 ----------------------------------------------------
